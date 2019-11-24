@@ -8,7 +8,7 @@ public class Homework {
 //    c) -2147483648 to 2147483647
 //    d) None of the mentioned
 //
-//
+//   answer is b)
 //
 //    2. What is the range of byte data type in Java?
 //    a) -128 to 127
@@ -16,7 +16,7 @@ public class Homework {
 //    c) -2147483648 to 2147483647
 //    d) None of the mentioned
 //    View Answer
-//
+//     answer is  a)
 //
 //
 //    3. Which of the following are legal lines of Java code?
@@ -29,8 +29,7 @@ public class Homework {
 //    b) 2 and 3
 //    c) 3 and 4
 //    d) All statements are correct.
-//
-//
+// answer is d)
 //
 //    What is the output of this program?
 //
@@ -45,7 +44,7 @@ public class Homework {
 //    b) 24
 //    c) 32
 //    d) 33
-//
+// answer is  b)
 //
 //    What is the output of this program?
 //
@@ -65,3 +64,4 @@ public class Homework {
 //    d) 301.56560000
 
 }
+// answer is d)

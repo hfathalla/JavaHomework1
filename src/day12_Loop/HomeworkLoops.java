@@ -7,10 +7,12 @@ public class HomeworkLoops {
 //    b) return
 //    c) exit
 //    d) continue
-//
-//    What is the output of this program?
-//
-//    class comma_operator {
+
+// answer is d)
+
+  //  What is the output of this program?
+
+//    static class comma_operator {
 //        public static void main(String args[])
 //        {
 //            int sum = 0;
@@ -23,33 +25,22 @@ public class HomeworkLoops {
 //    b) 6
 //    c) 14
 //    d) compilation error
-//
+
+// answer is b)
+
 //    What is the output of this program?
 //
-//    class jump_statments {
-//        public static void main(String args[])
-//        {
-//            int x = 2;
-//            int y = 0;
-//            for ( ; y < 10; ++y) {
-//                if (y % x == 0)
-//                    continue;
-//                else if (y == 8)
-//                    break;
-//                else
-//                    System.out.print(y + " ");
-//            }
-//        }
-//    }
+  // }
 //    a) 1 3 5 7
 //    b) 2 4 6 8
 //    c) 1 3 5 7 9
 //    d) 1 2 3 4 5 6 7 8 9
 //
-//
+//  answer is c)
+
 //    What is the output of this program?
 //
-//    class Output {
+//static class Output {
 //        public static void main(String args[])
 //        {
 //            final int a=10,b=20;
@@ -67,6 +58,6 @@ public class HomeworkLoops {
 //    c) Hello world
 //    d) compile time error
 //
-//
+// answer is d)
 
 }

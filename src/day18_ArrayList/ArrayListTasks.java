@@ -3,7 +3,7 @@ package day18_ArrayList;
 public class ArrayListTasks {
 
 //1. Write a Java program to create a new array list, add some colors (string) and print out the collection.
-//
+//S
 //
 //2. Write a Java program to iterate through all elements in a array list.
 //

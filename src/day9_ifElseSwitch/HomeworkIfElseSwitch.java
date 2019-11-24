@@ -1,19 +1,19 @@
 package day9_ifElseSwitch;
 
 public class HomeworkIfElseSwitch {
-    // highlight ctrl + /
+//    // highlight ctrl + /
 //    public static void main(String[] args) {
 //        int x = 10;
 //
-////        Boolean myVal = false;
-////
-////        if(myVal==true)
-////        if(myVal){
-////
-////        }
+//        Boolean myVal = false;
+//
+//       if(myVal==true)
+//        if(myVal){
+//
+//        }
 //
 //        if (x) {
-//            System.out.println("HELLO TECHNO");
+//           System.out.println("HELLO TECHNO");
 //        } else {
 //            System.out.println("BYE");
 //        }
@@ -23,8 +23,9 @@ public class HomeworkIfElseSwitch {
 ////2. Compile time error
 ////3. Runtime Error
 ////4. BYE
-//
-//    public class Test {
+//  answer is 2.)
+
+//    public static class Test {
 //        public static void main(String[] args)
 //        {
 //            int x = 10;
@@ -44,8 +45,9 @@ public class HomeworkIfElseSwitch {
 ////2. HELLO TECHNO
 ////3. BYE
 ////4. Compile time error
-//
-//    public class Test {
+//   answer is 4.)
+
+//    public static class Test {
 //    public static void main(String[] args) {
 //        int x = 10, y = 20;
 //
@@ -61,8 +63,10 @@ public class HomeworkIfElseSwitch {
 ////2. BYE
 ////3. NO output
 ////4. Compile time error
-//
-//    public class Test {
+
+// answer is 4.)
+
+//    public static class Test {
 //        public static void main(String[] args)
 //        {
 //            int x = 10, y = 20;
@@ -83,8 +87,10 @@ public class HomeworkIfElseSwitch {
 ////2. Compile time error
 ////3. WELCOME
 ////4. No Output
-//
-//    public class Test {
+
+//   answer is 3.)
+
+//    public static class Test {
 //        public static void main(String[] args)
 //        {
 //            if (true)
@@ -96,33 +102,24 @@ public class HomeworkIfElseSwitch {
 ////2. Compile time error
 ////3. Runtime error
 ////4. Runtime Exception
-//    class Test {
+
+    //   answer is 1.)
+
+    //    class Test {
     //Mac command + slash
     //pc ctrl + /
-//        public static void main(String[] args)
-//        {
-//            String day = "Sunday";
-//            switch (day) {
-//                case "Monday":
-//                    System.out.println("Let's Work");
-//                    break;
-//                case "Saturday":
-//                    System.out.println("waiting for Sunday");
-//                    break;
-//                case "Sunday":
-//                    System.out.println("Today is fun day");
-//            }
-//        }
-//    }
+//  //}
 ////Options:
 ////1. Compile time error
 ////2. Lets work
 ////3. Run- time error
 ////4. Today is fun day
-//
-//    public class MainClass {
 
-    //        enum day { MON,
+// answer is 3.)
+
+//    public static class MainClass {
+//
+//            enum day { MON,
 //            SAT,
 //            SUN }
 //
@@ -147,12 +144,13 @@ public class HomeworkIfElseSwitch {
 ////2. Syntax error
 ////3. Lets have fun!
 ////4. Compile time error
-//
-//    class MainClass {
+//   answer is 3.)
+
+//    static class MainClass {
 //    public static void main(String[] args) {
 //        int x = 10;
 //
-//        Switch (x) {
+//        Switch (x){
 //            System.out.println("TECHNO");
 //        }
 //    }
@@ -162,8 +160,10 @@ public class HomeworkIfElseSwitch {
 ////2. Compile time error
 ////3. No Output
 ////4. Run-time error
-//
-//    class MainClass {
+
+//  answer is 2.)
+
+//    static class MainClass {
 //        public static void main3(String[] args)
 //        {
 //            int x = 10;
@@ -183,8 +183,10 @@ public class HomeworkIfElseSwitch {
 ////2. No Output
 ////3. TECHNO
 ////4. Compile time error
-//
-//    class MainClass {
+
+//  answer is 4.)
+
+//    static class MainClass {
 //    public static void main(String[] args) {
 //        int x = 10;
 //        final int y = 20;
@@ -204,8 +206,10 @@ public class HomeworkIfElseSwitch {
 ////3. HELLO
 ////4. NO Output
 ////Output:
-//
-//    class MainClass {
+
+// answer is 3.)
+
+//    static class MainClass {
 //
 //        public static void main(String[] args)
 //        {
@@ -225,8 +229,10 @@ public class HomeworkIfElseSwitch {
 ////2. TECHNO
 ////3. HELLO
 ////4. No Output
-//
-//    class MainClass {
+
+// answer is 2.)
+
+//    static class MainClass {
 //        public static void main(String arg[])
 //        {
 //            char stream = 'C';
@@ -270,4 +276,6 @@ public class HomeworkIfElseSwitch {
 ////2. GFG
 ////3. No Output
 ////4. TechnoStudy
+
+ //  answer is  4.)
 }

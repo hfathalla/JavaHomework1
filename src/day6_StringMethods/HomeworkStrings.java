@@ -8,7 +8,8 @@ public class HomeworkStrings {
 //    c) 0 to 32767
 //    d) 0 to 65535
 //
-//
+//    answer is d)
+
 //    What is the output of this program?
 //
 //    class mainclass {
@@ -23,7 +24,7 @@ public class HomeworkStrings {
 //    b) 67
 //    c) 65
 //    d) 64
-//
+// answer is a)
 //
 //    What is the output of this program?
 //
@@ -40,7 +41,7 @@ public class HomeworkStrings {
 //    c) 67 95
 //    d) 66 98
 
-//
+// answer is b)
 //
 //
 //    Which of these methods can be used to convert all characters in a String into a character array?
@@ -48,5 +49,5 @@ public class HomeworkStrings {
 //    b) both getChars() & charAt()
 //    c) both toCharArray() & getChars()
 //    d) All of the mentioned
-
+// answer is d)
 }
