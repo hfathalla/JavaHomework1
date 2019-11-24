@@ -1,15 +1,40 @@
 package day18_ArrayList;
 
-public class ArrayListTasks {
+import java.util.ArrayList;
 
-//1. Write a Java program to create a new array list, add some colors (string) and print out the collection.
+public class ArrayListTasks<arr> {
+
+    //1. Write a Java program to create a new array list, add some colors (string) and print out the collection.
 //S
+    public static void main(String[] args) {
+        ArrayList<String> arr = new ArrayList<>();
+        arr.add("red");
+        arr.add("yellow");
+        arr.add("black");
+        arr.add("green");
+        System.out.println(arr);
+
+
 //
 //2. Write a Java program to iterate through all elements in a array list.
+        System.out.println("way 1 ---------");
+        for (String color : arr) {
+            System.out.println(color);
+        }
+        System.out.println("way2 ---------");
+        for (int i = 0; i < arr.size(); i++) {
+            System.out.println(arr.get(i));
+
+
+        }
+
+
 //
 //
 //3. Write a Java program to insert an element into the array list at the first position.
 //
+        arr.add(0, "white");
+        System.out.println(arr);
 //
 //4. Write a Java program to retrieve an element (at a specified index) from a given array list.
 //
@@ -66,5 +91,6 @@ public class ArrayListTasks {
 //
 //
 //22. Write a Java program to print all the elements of a ArrayList using the position of the elements.
-    
+
+    }
 }
