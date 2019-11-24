@@ -8,18 +8,24 @@ public class HM1 {
     // 2. create array of size 10, create a loop from 0 to 100, and try to print every element in array
 
 }
-
+     //1
   class Catch {
     public static void main(String[] args) {
-       String a = "HelloWorld";
-       char[] c = a.toCharArray();
+        String a = "HelloWorld";
+        try {
+            a.charAt(100);
+        } catch (Exception ex) {
+            ex.printStackTrace();
 
-
-        ArrayList<Character>arrayList = new ArrayList<>();
-        for (int i = 0; i < c.length; i++) {
-            System.out.println(i);
         }
+        //2
 
+        int[] arr = new int[10];
+    try{
+       int b = arr[100];
+    }catch (Exception ex){
+        ex.printStackTrace();
+    }
 
         
 
